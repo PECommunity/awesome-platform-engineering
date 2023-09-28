@@ -62,6 +62,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Insight eBook : [Understanding Platform Engineering](https://solutions.insight.com/Resources/eBooks/ebooks/Understanding-Platform-Engineering)
 - eBook : [The Definitive Guide to Internal Developer Portals](https://www.getport.io/blog/guide-to-internal-developer-portals)
 - CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)
+- [Platform Engineering on Kubernetes](https://salaboy.com/book/) by Mauricio Salatino [@salaboy](https://twitter.com/salaboy) [Manning Publishing](http://mng.bz/jjKP?ref=salaboy.com).
+  - Free Step-by-step tutorials on GitHub [https://github.com/salaboy/platforms-on-k8s/](https://github.com/salaboy/platforms-on-k8s/). Tutorials translated in Chinese by [@dustise](https://twitter.com/dustise)
+  - Translations in Chinese available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
 
 
 ## <span id="6">6. Team & People 团队与个人</span>
