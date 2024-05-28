@@ -68,6 +68,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
   - Translations in Chinese will be available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
 - eBook : [Platform Engineering: What You Need to Know Now](https://thenewstack.io/ebooks/platform-engineering/platform-engineering-what-you-need-to-know-now/) 
 - [Build: Elements of an Effective Software Organization](https://www.swarmia.com/build/) By Rebecca Murphey and Otto Hilska 2024.1.29
+- [The Platform Engineering Playbook: A practical guide to implementing and scaling DevOps with cloud native internal developer platforms](https://www.amazon.com/Platform-Engineering-Playbook-practical-implementing/dp/1837638055) 2024.12.10
 
 ## <span id="6">6. Team & People 团队与个人</span>
 -  Mia-Platform https://blog.mia-platform.eu/en
