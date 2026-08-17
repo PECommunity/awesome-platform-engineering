@@ -28,7 +28,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Mia Platform https://mia-platform.eu/ Don’t waste time setting up your platform, just push the code!
 - Humanitec https://humanitec.com/ Powering your Internal Developer Platform
 - Backstage https://backstage.io/ An open platform for building developer portals | Software catalog and developer platform [Demo](https://demo.backstage.io/)
+- Openchoreo https://openchoreo.dev/ A complete, open-source Internal developer platform for Kubernetes 
 - Devtron https://devtron.ai/ An open source Internal Developer Platform for Kubernetes
+- Fortem https://fortem.dev/ AI-native Internal Developer Platform for Kubernetes — self-hosted, single Helm chart install, NL-to-manifest generation, AIOps cost optimization, zero vendor lock-in
 - GetPort https://www.getport.io/ A No-Code Developer Portal  [Demo](https://demo.getport.io/)
 - Roadie https://roadie.io/ Roadie:  SaaS Backstage. Simple, safe, and more powerful
 - zymr https://www.zymr.com/product-platform-engineering-services ZYMR: WE EXCEL AT PLATFORM ENGINEERING   
@@ -41,6 +43,10 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - KusionStack https://kusionstack.io/ Open Tech Stack to build self-service, collaborative, reliable and sustainable Internal Developer Platform.
 - BACK Stack https://backstack.dev/ Build a Developer Platform in seconds: Backstage | Argo CD | Crossplane | Kyverno
 - CNOE https://cnoe.io/ Cloud Native Operational Excellence | CNOE aims at helping platform engineers build their IDP platforms faster and in a more secure way with best practices built in
+- KubeStellar Console https://github.com/kubestellar/console Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and 20+ CNCF project integrations | CNCF Sandbox project for edge-to-cloud platform management [Demo](https://console.kubestellar.io)
+- Ownkube https://ownkube.io AI-enabled developer platform that runs in your own AWS account on k3s or EKS. Git-push deploys, managed Postgres, preview environments per PR, AI error detection. Free on single-node k3s.
+- KnoxOps https://knoxops.app/?invite_token=GITHUB26 AI-native ops agent that gives AI agents production-safe execution with human review and a built-in knowledge graph.
+- emisar https://github.com/AndrewDryga/emisar Gives AI agents a controlled way to work on servers through defined actions, policy checks, optional approvals, and host-side validation.
 
 ## <span id="3">3. Conf/Event  会议/活动</span>
 - PlatformCon https://platformcon.com 
@@ -86,6 +92,7 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Medium TAG https://medium.com/tag/platform-engineering 
 - dev.to https://dev.to/search?q=platform%20engineering 
 - InfoQ Topic https://www.infoq.com/platformengineering/ 
+- Platform Weekly https://platformweekly.com/
 - [Platform Tooling - Explore the right tools to build your Internal Developer Platform](https://platformengineering.org/platform-tooling)
 - [Platform tooling to build your Internal Developer Platform](https://internaldeveloperplatform.org/platform-tooling/)
 - [Curated list of tools and resources for Platform Engineering](https://hospodarets.com/awesome-platform-engineering/)
@@ -95,7 +102,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - Platform Engineering https://platformengineering.org  
   - Community https://community.platformengineering.org/
   - Tooling https://platformengineering.org/platform-tooling
+  - University https://university.platformengineering.org
 - Internal Developer Platform https://internaldeveloperplatform.org
+- Weave Intelligence https://weaveintelligence.io
 - Resources about Internal Platform teams and products https://internalplatforms.com
 - Mia-Platform https://blog.mia-platform.eu/en
 - Humanitec https://humanitec.com/blog
