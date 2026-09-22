@@ -71,6 +71,9 @@ Glossary Repos: https://github.com/PECommunity/platform-engineering-glossary
 - eBook : CircleCI - [Why and how to build a platform team in your organization](https://circleci.com/landing-pages/assets/Platform-Engineering-ebook.pdf)
 - CNCF: [Whitepaper on Platforms for Cloud Native Computing](https://appdelivery.cncf.io/whitepapers/platforms/)
 - [Platform Engineering on Kubernetes](https://salaboy.com/book/) by Mauricio Salatino [@salaboy](https://twitter.com/salaboy) [Manning Publishing](http://mng.bz/jjKP?ref=salaboy.com).
+- [Effective Platform Engineering: Build self-service interfaces to boost developer experience](https://www.amazon.com/Effective-Platform-Engineering-Ajay-Chankramath/dp/1633436497) by Ajay Chankramath, Sean Alvarez, Bryan Oliver and Nic Cheneweth, Manning 2025
+- [The Platform Engineer's Handbook: Build secure, developer-focused platforms that streamline modern software delivery](https://www.amazon.com/Platform-Engineers-Handbook-developer-focused-streamline/dp/1806380137) by Ajay Chankramath, Packt 2025
+- [Domain-Driven Platform Engineering: How to Build Context-Aware, Scalable, and Self-Service Platforms for the Enterprise](https://www.amazon.com/Domain-Driven-Platform-Engineering-Context-Aware-Self-Service/dp/B0GSHVQNCR) by Ajay Chankramath and Eamonn Ryan, Apress 2026
   - Free Step-by-step tutorials on GitHub [https://github.com/salaboy/platforms-on-k8s/](https://github.com/salaboy/platforms-on-k8s/). Tutorials translated in Chinese by [@dustise](https://twitter.com/dustise)
   - Translations in Chinese will be available in early 2024 via [https://www.epubit.com/](https://www.epubit.com/)
 - eBook : [Platform Engineering: What You Need to Know Now](https://thenewstack.io/ebooks/platform-engineering/platform-engineering-what-you-need-to-know-now/) 
